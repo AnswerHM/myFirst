@@ -2,3 +2,4 @@ Git is a distributed veersion control system.
 Git is free software distributed under the GPL.
 This is my first Git document.
 Hello, my name is huhui,I come from China.I'm work in JD.
+I have two brothers. 
