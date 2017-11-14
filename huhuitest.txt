@@ -1,1 +1,2 @@
 I just want to test callback.
+Now I test stash.
